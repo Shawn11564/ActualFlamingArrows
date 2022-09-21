@@ -1,0 +1,8 @@
+name: ActualFlamingArrows
+version: '${project.version}'
+main: dev.mrshawn.actualflamingarrows.ActualFlamingArrows
+api-version: 1.19
+prefix: ActualFlamingArrows
+authors: [ MrShawn ]
+description: Make flaming arrows actually set blocks on fire
+website: https://mrshawn.dev/
